@@ -2,7 +2,7 @@
 
 Run `npm install` to install de dependencies.
 
-Node 10.9.0
+**Node 10.9.0**
 
 ## Available Scripts
 
