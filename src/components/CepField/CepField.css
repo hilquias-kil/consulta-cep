@@ -1,0 +1,39 @@
+.CepField {
+  padding: 20px;
+  background-color: #eee;
+}
+
+.CepField .title {
+  display: block;
+  margin: 0 0 20px;
+  font-size: 18px;
+  font-weight: bold;
+}
+
+.CepField .field label,
+.CepField .field input,
+.CepField .field button,
+.CepField .field .error {
+  display: inline-block;
+  vertical-align: middle;
+}
+
+.CepField .field input {
+  margin-left: 10px;
+  padding: 10px; 
+  font-size: 1rem;
+}
+
+.CepField .field button {
+  margin-left: 10px;
+  padding: 10px; 
+  font-size: 1rem;
+  background-color: #0089ff;
+  color: #fff;
+  border-color: #0089ff;
+}
+
+.CepField .field .error {
+  padding: 10px;
+  color: red;
+}
